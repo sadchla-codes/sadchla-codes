@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sadchla-codes
 - 👀 I’m interested in all things R and python programming
-- 🌱 I’m currently learning about different Posit
+- 🌱 I’m currently learning about Quarto
 - 💞️ I’m looking to collaborate on package developing projects, R Shiny and fun or interesting stuff
 - 📫 How to reach me ...
 
